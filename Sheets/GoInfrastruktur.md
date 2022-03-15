@@ -10,7 +10,7 @@ Bis zur 12. Go Version gab es einen GOPATH, den gibt es zwar immer noch aber er 
 
 Wenn ich als Entwickler also ein neues Projekt starten wollte musste ich hierfür erstmal einen neuen Ordner anlegen und hier drin meinen Code schreiben. Go Programme liefen also nur in diesem Order sonst nirgends, außer man baut sich eine Binary die läuft immer egal ob mit oder ohne Go.
 
-<img src="resources/Screenshot 2022-03-15 at 9.16.52 AM.png">
+<img src="../resources/Screenshot 2022-03-15 at 9.16.52 AM.png">
 
 So  würde dann in dem GOPATH die Struktur aussehen, dass ist nicht zwingend, da hat jeder Entwickler seine eigenen Vorzüge. Ich habe mich für den oben gezeigten Aufbau entschieden, hier gibt es 3 Order : bin / pkg / src. Bin und pkg schauen wir uns später an, du kannst dir jetzt erstmal merken hier kommt der Code von anderen Entwicklern rein auf den wir dann zugreifen können. bin = binary, pkg = package
 
