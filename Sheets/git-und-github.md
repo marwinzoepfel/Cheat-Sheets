@@ -34,7 +34,7 @@ Man kann sich Git also wie eine Art Zeitstrahl vorstellen, auf dem ihr jederzeit
 
 Irgendwie muss man jetzt aber git bedienen können, auch wenn es viele IDEs unterstützen bin ich ein großer Fan davon alles weiterhin im Terminal zu machen, oder zumindest die Befehle den Code schaue ich mir meist in meiner IDE an. Jetzt muss git aber erstmal wissen was mein Projekt ist, dafür einfach in meinen Ordner gehen wo alle meine Datein liegen und den Command `git init` eingeben und schon habe ich eine neue Git Repository. Wenn ich jetzt schauen will was ist denn hier alles drin und was habe ich vielleicht schon verändert, benutze den Command `git status`
 
-<img src="resources/Screenshot 2022-03-15 at 12.30.50 PM.png">
+<img src="../resources/Screenshot 2022-03-15 at 12.30.50 PM.png">
 
 Ich habe in diesem Beispiel schon 2 Datein verändert (Hier in Rot dargestellt), wenn ich jetzt nachschauen will was ich genau verändert habe kann ich `git diff`  eingeben und schon zeigt mit Git genau welche Zeilen ich verändert habe. Diese Funktion nutze ich meist in meiner IDE, wie das funkioniert ist aber jedes mal anders.
 
@@ -48,7 +48,7 @@ Jetzt muss ich nur noch Git sagen ich bin zufrieden mit diesen Datein und wie ic
 
 Wenn du dir nochmal den Zeitstrahl von oben vorstellst, dann kannst du jetzt bei jeder Version von dem "Hauptpfeil" abkommen und einen neuen Branch erstellen, hier kannst du jetzt deinen Code ändern so viel du willst. Der Hauptpfeil (Main/Master Branch) bleibt aber unverändert. Wenn du dann zufrieden bist mit deinen Änderungen kannst du die beiden Branches zusammen mergen, also den Code von deinem neuen Branch in den Main übertragen. Wenn du aber nur mit dem Code was ausprobieren wolltest, kannst du neu erstellen Branch einfach löschen und dein Programm bleibt unversehrt.
 
-<img src="resources/two-branches.png">
+<img src="../resources/two-branches.png">
 > Quelle : https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 
 ## Opensource
