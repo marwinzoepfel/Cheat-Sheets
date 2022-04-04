@@ -57,9 +57,9 @@ Diese Art von Kontrolle über Code ermöglicht es Entwicklern nicht nur alleine 
 
 ### Github
 
-Eine Software die ich sehr viel benutzte heißt Github, Github ist quasi wie ein Sozialesnetzwerk für Entwickler. Ihr könnt eure Projekte hochladen und mit anderen Leuten teilen oder einfach öffentlich stellen, so dass jeder den Code anschauen kann. Github hat so viele Funktionen, dass ich diese hier nicht alle aufzählen werde. Geh einfach mal auf die Seite GitHub.com und schau dich um. 
+Eine Software die ich sehr viel benutzte heißt Github, Github ist quasi wie ein Sozialesnetzwerk für Entwickler. Du kannst deine Projekte hochladen und mit anderen Leuten teilen oder einfach öffentlich stellen, so dass jeder den Code anschauen kann. Github hat so viele Funktionen, dass ich diese hier nicht alle aufzählen werde. Geh einfach mal auf die Seite GitHub.com und schau dich um. 
 
-Ihr könnt jetzt aber Git und Github verknüpfen, wenn ihr auf Github eine neue Repository erstellt kommt von Github eine Anleitung wie ihr eure Git Repository auf eurem localem Computer mit Github verknüpfen könnt. 
+Du kannst jetzt aber Git und Github verknüpfen, wenn du auf Github eine neue Repository erstellst kommt von Github eine Anleitung wie du deine Git Repository auf deinem localem Computer mit Github verknüpfen könnt. 
 
 ```bash
 echo "# test" >> README.md
@@ -71,4 +71,4 @@ git remote add origin git@github.com:username/test.git
 git push -u origin main
 ```
 
- Wenn hier ein Fehler kommt müsst ihr erst einen SSH Key einrichten und den bei Github hinterlegen.
+ Wenn hier ein Fehler kommt musst du erst einen SSH Key einrichten und den bei Github hinterlegen.
