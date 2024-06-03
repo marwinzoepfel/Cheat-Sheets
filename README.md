@@ -10,7 +10,7 @@ Eine Sammlung praktischer Spickzettel (Cheat Sheets) zu verschiedenen Webentwick
 
 ## Wie du die Cheat Sheets verwendest 🚀
 
-1. Navigiere zum Ordner der gewünschten Technologie.
+1. Navigiere zum Ordner Sheets.
 2. Öffne die entsprechende Cheat Sheet-Datei.
 3. Drucke sie aus oder behalte sie digital griffbereit.
 
