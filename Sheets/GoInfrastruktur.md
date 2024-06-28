@@ -1,6 +1,6 @@
 # Die Go Infrastruktur
 
-Go ist bekannt für eine sehr geniale Infrastruktur, dass ist auch der Grund warum ich dir alles mit Go beibringe. Go ist nicht super einfach aber du lernt sehr viel und sehr gelenkt mit Go. Viele schlechte Gewohnheiten unterstützt Go nicht und so fängt man vorallem als neuer Entwickler garnicht an sich diese anzugewöhnen.
+Go ist bekannt für eine sehr geniale Infrastruktur, das ist auch der Grund warum ich dir alles mit Go beibringe. Go ist nicht super einfach, aber du lernst sehr viel und sehr gelenkt mit Go. Viele schlechte Gewohnheiten unterstützt Go nicht und so fängt man vorallem als neuer Entwickler garnicht an sich diese anzugewöhnen.
 
 ## Die alte Go Struktur
 
@@ -8,17 +8,18 @@ Bis zur 12. Go Version gab es einen GOPATH, den gibt es zwar immer noch aber er 
 
 > Benutzername/go
 
-Wenn ich als Entwickler also ein neues Projekt starten wollte musste ich hierfür erstmal einen neuen Ordner anlegen und hier drin meinen Code schreiben. Go Programme liefen also nur in diesem Order sonst nirgends, außer man baut sich eine Binary die läuft immer egal ob mit oder ohne Go.
+Wenn ich als Entwickler also ein neues Projekt starten wollte musste ich hierfür erstmal einen neuen Ordner anlegen und hier drin meinen Code schreiben. Go Programme liefen also nur in diesem Order sonst nirgends, außer man baute sich eine Binary, die läuft immer egal ob mit oder ohne Go.
 
 <img src="../resources/Screenshot 2022-03-15 at 9.16.52 AM.png">
 
-So  würde dann in dem GOPATH die Struktur aussehen, dass ist nicht zwingend, da hat jeder Entwickler seine eigenen Vorzüge. Ich habe mich für den oben gezeigten Aufbau entschieden, hier gibt es 3 Order : bin / pkg / src. Bin und pkg schauen wir uns später an, du kannst dir jetzt erstmal merken hier kommt der Code von anderen Entwicklern rein auf den wir dann zugreifen können. bin = binary, pkg = package
+So  würde dann in dem GOPATH die Struktur aussehen, dass ist nicht zwingend, da hat jeder Entwickler seine eigenen Vorzüge. Ich habe mich für den oben gezeigten Aufbau entschieden, hier gibt es 3 Order : bin / pkg / src. Bin und pkg schauen wir uns später an, du kannst dir jetzt erstmal merken hier kommt der Code von anderen Entwicklern rein auf den wir dann zugreifen können. bin = binary, pkg = package**
 
 In den src Ordner kurz für Sourcecode kommt dein eigener Code rein, alle Go Programme die du schreibst sind hier auf einem Haufen zusammen.
 
 ## Die neue Go Struktur
 
-Da ich mit dem GOPATH aufgewachsen bin halte ich mich mehr oder weniger strickt dran, ich empfehle es dir trotzdem erstelle einen GO Ordner, oder wahrscheinlich hat Go beim installieren diesen schon erstellt dann suche den einfach mal. Go unterstützt jetzt aber eine deutlich angenehmere Lösung die troztdem noch sehr gut organisiert ist, diese heißt Go Mod.
+Da ich mit dem GOPATH aufgewachsen bin, halte ich mich mehr oder weniger strikt daran. Ich empfehle es dir trotzdem, einen GO-Ordner zu erstellen, oder wahrscheinlich hat Go beim Installieren diesen schon erstellt, dann suche ihn einfach mal. Go unterstützt jetzt aber eine deutlich angenehmere Lösung, die trotzdem noch sehr gut organisiert ist, diese heißt Go Mod.
+
 
 ### Go Mod
 
