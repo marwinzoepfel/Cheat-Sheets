@@ -1,32 +1,32 @@
 # Cheat Sheets 📚
 
-Eine Sammlung praktischer Spickzettel (Cheat Sheets) zu verschiedenen Webentwicklungstechnologien und Tools.
+A collection of practical cheat sheets for various web development technologies and tools.
 
-## Inhalt 📝
+## Content 📝
 
 * **Go**
 * **Git & Github**
 * **Webserver**
 
-## Wie du die Cheat Sheets verwendest 🚀
+## How to use the cheat sheets 🚀
 
-1. Navigiere zum Ordner Sheets.
-2. Öffne die entsprechende Cheat Sheet-Datei.
-3. Drucke sie aus oder behalte sie digital griffbereit.
+1. Navigate to the Sheets folder.
+2. Open the corresponding cheat sheet file.
+3. Print it out or keep it handy digitally.
 
-## Beiträge sind willkommen! 🙌
+## Contributions are welcome! 🙌
 
-Wenn du einen Fehler findest, eine Verbesserung vorschlagen möchtest oder ein Cheat Sheet für eine Technologie hinzufügen möchtest, die noch nicht enthalten ist, erstelle gerne einen Pull Request!
+If you find an error, want to suggest an improvement, or want to add a cheat sheet for a technology that isn't included yet, feel free to create a pull request!
 
-## Lizenz 📄
+## License 📄
 
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE). Du kannst die Cheat Sheets frei verwenden, teilen und anpassen, jedoch nicht verkaufen.
+This project is licensed under the [MIT License](LICENSE). You can freely use, share, and adapt the cheat sheets, but not sell them.
 
-## Kontakt 📫
+## Contact 📫
 
-Bei Fragen oder Anregungen kannst du mich gerne kontaktieren:
+If you have any questions or suggestions, please feel free to contact me:
 
 * GitHub: [marwinzoepfel](https://github.com/marwinzoepfel)
-* Meine Webseite: [marwinzoepfel.de]
+* My website: [marwinzoepfel.de]
 
-Happy Coding! 😊
+Happy Coding! 😊 
